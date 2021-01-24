@@ -1,3 +1,11 @@
+---
+title : "Open Source Research "
+description: ""
+date: 2021-01-24T08:48:23+00:00
+lastmod: 2021-01-24T08:48:23+00:00
+BookToC: false
+---
+
 ## Open Source Research
 *OpenSource Research* is an experimental project which aims to create a piece of collaborative research in the field of AI music. 
 
