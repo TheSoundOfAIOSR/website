@@ -5,7 +5,7 @@ date: 2021-01-24T08:48:23+00:00
 lastmod: 2021-01-24T08:48:23+00:00
 BookToC: true
 ---
-
+# Intro
 ## Open Source Research
 *OpenSource Research* is an experimental project which aims to create a piece of collaborative research in the field of AI music. 
 
@@ -30,17 +30,18 @@ Voice meetings and small groups presentations
 
 {{< discord id="697476515981557940" >}}
 
-# Github
+## Github
 organization
 {{< new_button text="The Sound Of AI Github" href="https://github.com/TheSoundOfAIOSR" >}}
 
 Meetings and presentations
 {{< new_button text="slides repo" href="https://github.com/TheSoundOfAIOSR/open-source-research/tree/main/slides" >}}
 
-# Google Drive
+## Google Drive
 
 {{< iframe src="https://drive.google.com/embeddedfolderview?id=1TvC4s-qydVPx4eZfkBc_I8gQWbF5qNDH#list" height="400" >}}
 
+# Project
 ## Project goals
 
 The project has a number of research-oriented goals:
@@ -243,7 +244,7 @@ Even though it is difficult to come up with a reliable timeline at this point, I
 6. Evaluation - 4 weeks
 7. Write up - 4 weeks
 
-
+# About
 ## License and authorship
 
 All the work produced (e.g., code, databases, algorithms) will be distributed using the [MIT License](https://en.wikipedia.org/wiki/MIT_License). 
