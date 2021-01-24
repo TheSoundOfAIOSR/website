@@ -32,10 +32,10 @@ Voice meetings and small groups presentations
 
 # Github
 organization
-{{< new_button text="The Sound Of AI Github" href="https://github.com/TheSoundOfAI" >}}
+{{< new_button text="The Sound Of AI Github" href="https://github.com/TheSoundOfAIOSR" >}}
 
 Meetings and presentations
-{{< new_button text="slides repo" href="https://github.com/TheSoundOfAI/open-source-research/tree/main/slides" >}}
+{{< new_button text="slides repo" href="https://github.com/TheSoundOfAIOSR/open-source-research/tree/main/slides" >}}
 
 # Google Drive
 
@@ -153,7 +153,7 @@ Google Doc will be used to collaborate on the write-up of the paper. Members wil
 
 ##### GitHub
 
-A [Github organization](https://github.com/TheSoundOfAI) will be used to collaborate on the code developed for the project.
+A [Github organization](https://github.com/TheSoundOfAIOSR/) will be used to collaborate on the code developed for the project.
 
 #### Project management
 
