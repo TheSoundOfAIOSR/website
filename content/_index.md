@@ -1,15 +1,20 @@
 ---
 title : "Open Source Research "
-description: ""
+description: "OpenSource Research is an experimental project which aims to create a piece of collaborative research in the field of AI music. The topic being worked on is a Sound design based on Text desciption"
 date: 2021-01-24T08:48:23+00:00
-lastmod: 2021-01-24T08:48:23+00:00
+lastmod: 2021-02-26T08:00:00+00:00
+images: ["/images/guitar_acoustic.png"]
 BookToC: true
 ---
 # Intro
 ## Open Source Research
-*OpenSource Research* is an experimental project which aims to create a piece of collaborative research in the field of AI music. 
+* *OpenSource Research* is an experimental project which aims to create a piece of collaborative research in the field of AI music. 
 
-The members of [_The Sound of AI_ (youtube channel)](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ) community collaborate to carry out research, following the philosophy and practices of [open source software](https://en.wikipedia.org/wiki/Open-source_software) and [open research](https://en.wikipedia.org/wiki/Open_research). 
+* The members of [_The Sound of AI_ (youtube channel)](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ) community collaborate to carry out research, following the philosophy and practices of [open source software](https://en.wikipedia.org/wiki/Open-source_software) and [open research](https://en.wikipedia.org/wiki/Open_research). 
+
+* The [selected topic](/docs/resources/topic_selection/) is about `Sound design & Tweaking using latent space interpolation and text description`, does it sound complex ? Not if you look at it like this word collection below :
+
+{{<image src="/images/guitar_acoustic.png" >}}
 
 ## Kickoff video
 {{< youtube "Ir_H4FUZPQM" >}}
