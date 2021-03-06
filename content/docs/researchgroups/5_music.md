@@ -5,6 +5,14 @@ date: 2021-01-01T00:00:00+00:00
 weight: 5
 bookToC: false
 ---
+# Presentations
+## Nsynth Dataset Guitar Subset
+
+{{<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQJI1mPqZzpu6gUUG66dajUE0GxuhBXrG89KC-nJmpg_3DnD9XFiZEFArMsOI9ghw/embed?start=false&loop=false&delayms=3000" height="569" >}}
+
+## Timbre of Guitar Sound
+
+{{< iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTdfm3NTAWet7wgOT8WVf-echUZ8TeJIWMsGBvxnUYTW6C8HHF9pg1RQWNVB7Mm8Q/embed?start=false&loop=false&delayms=3000" height="569" >}}
 
 
 # Literature review summary
@@ -19,6 +27,3 @@ bookToC: false
 
 {{< iframe src="https://drive.google.com/embeddedfolderview?id=1aYGplcjTocj01SDQe2Ubu2A-GvmsNoKY#list" height="400" >}}
 
-# Timbre of Guitar Sound
-
-{{< iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTdfm3NTAWet7wgOT8WVf-echUZ8TeJIWMsGBvxnUYTW6C8HHF9pg1RQWNVB7Mm8Q/embed?start=false&loop=false&delayms=3000" height="400" >}}
