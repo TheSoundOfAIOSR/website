@@ -10,5 +10,9 @@ bookToC: false
     <source src="/videos/audio_annotation_V2.mp4" type="video/mp4">
 </video>
 
-# Embedded tool
+# Tool link
+{{<new_button href="http://audioannot.azurewebsites.net/" text="open annotator tool in a new window" >}} 
+
+Embedded
+
 {{<iframe src="http://audioannot.azurewebsites.net/" height="900" >}}
