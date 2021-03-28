@@ -69,7 +69,7 @@ In the response, the full request including the id shall be kept.
 ```json
 {
     "event":{
-            "sentence":"Up"
+            "word":"Up"
         }
 }
 ```
