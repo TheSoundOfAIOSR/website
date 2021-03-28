@@ -102,7 +102,7 @@
       </data>
       <graph edgedefault="directed" id="n2:">
         <node id="n2::n0">
-          <data key="d4" xml:space="preserve"><![CDATA[https://docs.espressif.com/projects/esp-idf/en/latest/esp32/]]></data>
+          <data key="d4" xml:space="preserve"/>
           <data key="d6">
             <y:GenericNode configuration="ShinyPlateNode3">
               <y:Geometry height="30.0" width="240.0" x="152.74999999999997" y="332.745265778766"/>
@@ -123,7 +123,7 @@
           </data>
         </node>
         <node id="n2::n2">
-          <data key="d4" xml:space="preserve"><![CDATA[https://docs.espressif.com/projects/esp-idf/en/latest/esp32/]]></data>
+          <data key="d4" xml:space="preserve"/>
           <data key="d6">
             <y:GenericNode configuration="ShinyPlateNode3">
               <y:Geometry height="30.0" width="240.0" x="168.24999999999997" y="476.416726793149"/>
@@ -384,6 +384,7 @@
       </graph>
     </node>
     <node id="n8">
+      <data key="d4" xml:space="preserve"><![CDATA[https://thesoundofaiosr.github.io/docs/resources/design/#websocket---text-sentence]]></data>
       <data key="d6">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="51.671461014383" width="109.94700984102957" x="210.0264950794852" y="216.372632889383"/>
@@ -395,6 +396,7 @@
       </data>
     </node>
     <node id="n9">
+      <data key="d4" xml:space="preserve"><![CDATA[https://thesoundofaiosr.github.io/docs/resources/design/#websocket---text-descriptor]]></data>
       <data key="d6">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="51.671461014383" width="109.94700984102957" x="205.78959031758046" y="624.088187807532"/>
@@ -406,6 +408,7 @@
       </data>
     </node>
     <node id="n10">
+      <data key="d4" xml:space="preserve"><![CDATA[https://thesoundofaiosr.github.io/docs/resources/design/#post---audio-samples]]></data>
       <data key="d6">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="51.671461014383" width="143.09159727479192" x="398.9411061245088" y="955.6394732328727"/>
@@ -459,6 +462,7 @@
       </data>
     </node>
     <node id="n15">
+      <data key="d4" xml:space="preserve"><![CDATA[https://thesoundofaiosr.github.io/docs/resources/design/#websocket---mic-control]]></data>
       <data key="d6">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="51.671461014383" width="109.94700984102957" x="230.56578079377087" y="1282.0787193650644"/>
@@ -975,7 +979,6 @@
       </data>
     </edge>
     <edge id="e21" source="n4" target="n6">
-      <data key="d9"/>
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.edge.framed">
           <y:Path sx="346.25" sy="62.6005859375" tx="-71.5" ty="-61.701171875"/>
