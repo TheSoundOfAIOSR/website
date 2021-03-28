@@ -384,7 +384,7 @@
       </graph>
     </node>
     <node id="n8">
-      <data key="d4" xml:space="preserve"><![CDATA[https://thesoundofaiosr.github.io/docs/resources/design/#websocket---text-sentence]]></data>
+      <data key="d4" xml:space="preserve"/>
       <data key="d6">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="51.671461014383" width="109.94700984102957" x="210.0264950794852" y="216.372632889383"/>
@@ -396,7 +396,7 @@
       </data>
     </node>
     <node id="n9">
-      <data key="d4" xml:space="preserve"><![CDATA[https://thesoundofaiosr.github.io/docs/resources/design/#websocket---text-descriptor]]></data>
+      <data key="d4" xml:space="preserve"/>
       <data key="d6">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="51.671461014383" width="109.94700984102957" x="205.78959031758046" y="624.088187807532"/>
@@ -408,7 +408,7 @@
       </data>
     </node>
     <node id="n10">
-      <data key="d4" xml:space="preserve"><![CDATA[https://thesoundofaiosr.github.io/docs/resources/design/#post---audio-samples]]></data>
+      <data key="d4" xml:space="preserve"/>
       <data key="d6">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="51.671461014383" width="143.09159727479192" x="398.9411061245088" y="955.6394732328727"/>
@@ -462,7 +462,7 @@
       </data>
     </node>
     <node id="n15">
-      <data key="d4" xml:space="preserve"><![CDATA[https://thesoundofaiosr.github.io/docs/resources/design/#websocket---mic-control]]></data>
+      <data key="d4" xml:space="preserve"/>
       <data key="d6">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="51.671461014383" width="109.94700984102957" x="230.56578079377087" y="1282.0787193650644"/>
