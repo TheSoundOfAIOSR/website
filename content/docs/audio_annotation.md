@@ -11,7 +11,7 @@ Welcome to the audio annotation tool. Please see the instruction video first.
 {{</hint>}}
 # Instruction video
 <video controls width="100%">
-    <source src="/videos/audio_annotation_V2.mp4" type="video/mp4">
+    <source src="/videos/audio_annotation_V3.mp4" type="video/mp4">
 </video>
 
 # Tool link
