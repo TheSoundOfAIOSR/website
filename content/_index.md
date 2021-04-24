@@ -12,7 +12,7 @@ BookToC: true
 
 * The members of [_The Sound of AI_ (youtube channel)](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ) community collaborate to carry out research, following the philosophy and practices of [open source software](https://en.wikipedia.org/wiki/Open-source_software) and [open research](https://en.wikipedia.org/wiki/Open_research). 
 
-* The [selected topic](/docs/resources/topic_selection/) is about `Sound design & Tweaking using latent space interpolation and text description`, does it sound complex ? Not if you look at it like this word collection below :
+* The [selected topic](/docs/resources/topic_selection/) is about creating a Sampler powered by a NeuralNet synthesizer that generates guitar sounds with text descriptors and voice inputs, does it sound complex ? let's look at it simply with this word collection :
 
 {{<image src="/images/guitar_acoustic.png" >}}
 
