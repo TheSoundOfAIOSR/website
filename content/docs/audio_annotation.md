@@ -2,7 +2,7 @@
 title: "Audio Annotation"
 description: "Tool for annotating audio samples"
 date: 2021-03-25T00:00:00+00:00
-weight: 2
+weight: 3
 bookToC: false
 ---
 
