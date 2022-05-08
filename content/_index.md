@@ -54,7 +54,7 @@ The project has a number of research-oriented goals:
 *   Develop an application, methodology, or algorithm that advances knowledge in the field of AI music. Contributors will choose the specific topic to work on together at the onset of the project.  
 *   Develop a code base with the new application / algorithm that other researchers can access openly.  
 *   Write up research results in an academic paper.
-*   Submit paper at the [2021 Conference on AI Music Creativity](https://aimc2021.iem.at/).  
+*   Submit paper at the [2022 Conference on AI Music Creativity](https://2022.aimusiccreativity.org/).  
 
 
 ## Who can get involved?
