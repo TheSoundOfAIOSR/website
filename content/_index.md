@@ -8,6 +8,7 @@ BookToC: true
 ---
 # Intro
 ## Open Source Research
+
 * *OpenSource Research* is an experimental project which aims to create a piece of collaborative research in the field of AI music. 
 
 * The members of [_The Sound of AI_ (youtube channel)](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ) community collaborate to carry out research, following the philosophy and practices of [open source software](https://en.wikipedia.org/wiki/Open-source_software) and [open research](https://en.wikipedia.org/wiki/Open_research). 
@@ -15,6 +16,8 @@ BookToC: true
 * The [selected topic](/docs/resources/topic_selection/) is about creating a Sampler powered by a NeuralNet synthesizer that generates guitar sounds with text descriptors and voice inputs, does it sound complex ? let's look at it simply with this word collection :
 
 {{<image src="/images/guitar_acoustic.png" >}}
+
+* The final paper titled From Words to Sound: Neural Audio Synthesis of Guitar Sounds with Timbral Descriptors has been submitted and accepted for the [2022 Conference on AI Music Creativity](https://2022.aimusiccreativity.org/). You can read the paper at the link above or visit the [companion website](https://thesoundofaiosr.github.io/Paper_Companion/) to check out some examples of the generated sounds.
 
 ## Kickoff video
 {{< youtube "Ir_H4FUZPQM" >}}
@@ -229,7 +232,7 @@ In this phase, contributors will write up the research they carried out.
 
 #### 8. Submission
 
-The paper will finally be submitted to _The 2021 Conference on AI Music Creativity._ 
+The paper will finally be submitted to _The 2022 Conference on AI Music Creativity._ 
 
 
 #### 9. Revisions
