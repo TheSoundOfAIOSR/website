@@ -17,7 +17,7 @@ BookToC: true
 
 {{<image src="/images/guitar_acoustic.png" >}}
 
-* The final paper titled [From Words to Sound: Neural Audio Synthesis of Guitar Sounds with Timbral Descriptors](https://drive.google.com/file/d/1YYZys6JOw4owvvVWLuUyF8sijmr8zwz4/view) has been submitted and accepted for the [2022 Conference on AI Music Creativity](https://2022.aimusiccreativity.org/). You can read the paper at the link above or visit the [companion website](https://thesoundofaiosr.github.io/Paper_Companion/) to check out some examples of the generated sounds.
+* The final paper titled [From Words to Sound: Neural Audio Synthesis of Guitar Sounds with Timbral Descriptors](https://zenodo.org/record/7088416#.YyrOsdVBxH4) has been submitted and presented at the [2022 Conference on AI Music Creativity](https://2022.aimusiccreativity.org/). You can read the paper at the link above or visit the [companion website](https://thesoundofaiosr.github.io/Paper_Companion/) to check out some examples of the generated sounds.
 
 ## Kickoff video
 {{< youtube "Ir_H4FUZPQM" >}}
@@ -232,7 +232,7 @@ In this phase, contributors will write up the research they carried out.
 
 #### 8. Submission
 
-The paper will finally be submitted to _The 2022 Conference on AI Music Creativity._ 
+The paper has been submitted to _The 2022 Conference on AI Music Creativity._ 
 
 
 #### 9. Revisions
