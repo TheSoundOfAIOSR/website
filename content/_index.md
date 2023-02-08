@@ -2,12 +2,22 @@
 title : "Open Source Research "
 description: "OpenSource Research is an experimental project which aims to create a piece of collaborative research in the field of AI music. The topic being worked on is a Sound design based on Text desciption"
 date: 2021-01-24T08:48:23+00:00
-lastmod: 2021-02-26T08:00:00+00:00
+lastmod: 2023-02-08T08:00:00+00:00
 images: ["/images/guitar_acoustic.png"]
 BookToC: true
 ---
-# Intro
-## Open Source Research
+# Open Source Research
+## Project Outcomes
+
+* Open Source Research finished successfully in September 2022 after 2 years of work. We built a neural audio synthesiser controlled via speech commands as planned.
+
+* You can try out the system installing it from this [GitHub repo](https://github.com/TheSoundOfAIOSR/project_common) or play around with the generation module on this [webapp](https://thesoundofaiosr-rg-sound-generation-app-y2fxsx.streamlit.app/).
+
+* We published our research at the 3rd Conference on [AI Music Creativity 2022](https://2022.aimusiccreativity.org/). The title of the paper is "[From Words to Sound: Neural Audio Synthesis of Guitar Sounds with Timbral Descriptors](https://zenodo.org/record/7088416#.Y-IkAhzMJH5)".
+
+* You can check out demo samples generated with the system in the paper [companion website](https://thesoundofaiosr.github.io/Paper_Companion/)."
+
+## Research Project
 
 * *OpenSource Research* is an experimental project which aims to create a piece of collaborative research in the field of AI music. 
 
@@ -49,7 +59,7 @@ Meetings and presentations
 
 {{< iframe src="https://drive.google.com/embeddedfolderview?id=1TvC4s-qydVPx4eZfkBc_I8gQWbF5qNDH#list" height="400" >}}
 
-# Project
+# Project Details
 ## Project goals
 
 The project has a number of research-oriented goals:
